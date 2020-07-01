@@ -1,6 +1,4 @@
 from tkinter import *
 root = Tk()
-
-
-sfsaf
+1111111111111
 root.mainloop()
